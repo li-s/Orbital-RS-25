@@ -57,6 +57,7 @@ S/N | Feature | Function | Achieved
 1 | Login | Able to login to user account | ✅
 2 | Schedule | Able to look at schedule to see upcomming events/ tests/ etc. | ✅
 3 | Module info | Able to select modules and get relevant information (files, announcements). | ✅
+4 | Persistent login | Able to set login once and forget feature | ✅
 
 Legend:
 ✅ - Done
