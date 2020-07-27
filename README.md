@@ -24,8 +24,7 @@ Although there is a pre-existing APP for Luminus, its' UI is cluttered, and navi
 <img alt="Announcements" src="./demo/anouncements.gif" width="200"> <img alt="Timetable" src="./demo/folders.gif" width="200">
 
 ## App flow
-
-<img alt="App flow" src="./images/APP_flow.png">
+<img alt="Logging in" src="./demo/login.gif" width="200">
 
 ## Tech stack
 
